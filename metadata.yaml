@@ -1,0 +1,33 @@
+_repo: Korea-and-her-neighbors-A-narrative-of-travel-with-an-account-of-the-recent-vicissitudes-and-__69300
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hillier, Walter C.
+    gutenberg_agent_id: '55201'
+    url: http://www.gutenberg.org/2009/agents/55201
+creator:
+  author:
+    agent_name: Bishop, Isabella Bird
+    gutenberg_agent_id: '55200'
+    url: http://www.gutenberg.org/2009/agents/55200
+description: ''
+gutenberg_issued: '2022-11-06'
+identifiers:
+  gutenberg: '69300'
+language: en
+pgterms:marc904: https://archive.org/details/koreaherneighbor00bird_0/page/n9/mode/2up
+pgterms:marc905: 20200726083450bishop
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: ellinora, Amber Black and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: 'United States: Fleming H. Revell Company,1897,pubdate 1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Korea and her neighbors: A narrative of travel, with an account of the recent
+  vicissitudes and present position of the country'
+url: http://www.gutenberg.org/ebooks/69300
