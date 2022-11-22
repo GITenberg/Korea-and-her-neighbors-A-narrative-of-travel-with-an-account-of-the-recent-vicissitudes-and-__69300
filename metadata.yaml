@@ -5,12 +5,17 @@ contributor:
     agent_name: Hillier, Walter C.
     gutenberg_agent_id: '55201'
     url: http://www.gutenberg.org/2009/agents/55201
+covers:
+- cover_type: archival
+  image_path: 69300-h/images/cover.jpg
 creator:
   author:
     agent_name: Bishop, Isabella Bird
     gutenberg_agent_id: '55200'
     url: http://www.gutenberg.org/2009/agents/55200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69300#Korea-and-her-neighbors-A-narrative-of-travel-with-an-account-of-the-recent-vicissitudes-and-_
 gutenberg_issued: '2022-11-06'
 identifiers:
   gutenberg: '69300'
